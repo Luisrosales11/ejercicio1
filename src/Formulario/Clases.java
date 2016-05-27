@@ -11,7 +11,6 @@ package Formulario;
  * @author pc
  */
 public class Clases {
-    package clases;
 
 public class producto {
     private String nombre;
